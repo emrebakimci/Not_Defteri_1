@@ -1,0 +1,22 @@
+.paragraf{
+    color: red;
+    text-align: center;
+}
+.hgh1{
+    text-align: center;
+}
+.btn{
+    text-align: center;
+    color: azure;
+    border-radius: 10px;
+    box-shadow: 1px 3px black;
+    background-image: linear-gradient(to right, black , darkblue);
+    cursor: pointer;
+    width: 150px;
+    height: 100px;
+
+}
+.hgdiv{
+    text-align: center;
+
+}

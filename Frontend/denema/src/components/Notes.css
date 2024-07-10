@@ -1,0 +1,42 @@
+.ntdiv{
+    text-align: center;
+    margin: 75px;
+}
+.nth1{
+
+}
+.txtarea{
+    border-radius: 10px;
+    box-shadow: 2px 4px black;
+}
+.txtfield{
+    border-radius: 10px;
+    box-shadow: 1px 2px black;
+    margin: auto;
+    text-align: center;
+}
+.ntbtn{
+    cursor: pointer;
+    width: 100px;
+    height: 75px;
+    color: white;
+    background-image: linear-gradient(to right, #4E6E81 , #2E3840);
+    border-radius: 10px;
+    box-shadow: 2px 4px black;
+
+}
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.delbtn{
+    cursor: pointer;
+    width: 75px;
+    height: 50px;
+    color: white;
+    background-image: linear-gradient(to right, #B80000 , #820300);
+    border-radius: 10px;
+    box-shadow: 1px 2px black;
+}
